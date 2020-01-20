@@ -11,3 +11,5 @@ Inside this rectangle, based on the density parameter set from the settings of t
 Based on the blue noise created from step 2, a RaycastCommandJob is used to find out points on Terrain's surface. For each of the positions, a tree is selected from a list of tree instances mentioned in the Vegetation Setup file.
 
 For details object (grasses) similar steps are followed. 
+
+Full source code of the project was not give as I worked on the porject owned by my employer. The project is temporarily hosted for my portfolio purpose. Risul Karim, 20.01.2020
