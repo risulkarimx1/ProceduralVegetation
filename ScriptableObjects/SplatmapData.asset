@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed58fd6dda9c44fba7f2f0e1a873a1af, type: 3}
+  m_Name: SplatmapData
+  m_EditorClassIdentifier: 
+  _splatmaps:
+  - Texture: {fileID: 2800000, guid: c03bf9d50092a8a4e9c928f559b0f8be, type: 3}
+    MinHeight: 0.1
+    MaxHeight: 0.2
+    MinSlope: 0
+    MaxSlope: 1.5
+    TileOffset: {x: 0, y: 0}
+    TileSize: {x: 50, y: 50}
+    SplatOffset: 0.1
+    SplatNoiseXScale: 0.01
+    SplatNoiseYScale: 0.01
+    SplatNoiseScaler: 0.1
+    Remove: 0
